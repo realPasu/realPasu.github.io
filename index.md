@@ -8,8 +8,8 @@
 
 <p><b>Peking University</b><p>
 
-<p>&#32 09/2018 - 07/2022(hopefully)</p>
-<p>&#32 Bachelor in Intelligence Science and Technology.</p>
+<p>&nbsp 09/2018 - 07/2022(hopefully)</p>
+<p>&nbsp Bachelor in Intelligence Science and Technology.</p>
 
 - Bulleted
 - List
