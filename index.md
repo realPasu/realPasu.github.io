@@ -24,7 +24,7 @@
 
 <h1> Others </h1>
 
-  <p> &nbsp;&nbsp;&nbsp;&nbsp;During my senior high, I took part in Chinese Physics Olympiad and got first prize. I'm still loving physics even if I have forgotten most of my knowlodge on physics and may have no chance to learn it again.</p>
+  <p> &nbsp;&nbsp;&nbsp;&nbsp;During my senior high, I took part in Chinese Physics Olympiad and got first prize. I'm still loving physics even if I have forgotten most of my knowlodge on physics and may not have chance to learn it again.</p>
 
 <h1> Contact me </h1>
   <p> &nbsp;&nbsp;&nbsp;&nbsp;Please send e-mail to <p1 style="color:#0000FF;">myy12769@pku.edu.cn</p1>.</p>
