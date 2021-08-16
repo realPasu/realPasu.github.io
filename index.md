@@ -1,13 +1,16 @@
+<body>
+  
+  <p>This is the homepage of Ma Yiyang. Nice to see you here.</p>
 
-  This is the homepage of Ma Yiyang. Nice to see you here.
-
-# About me
+  <h1>About me</h1>
   
   <tr>
-    <h1>I'm an undergraduate student majoring in </h1>
+    <p>I'm an undergraduate student majoring in <p>
     <p> test </p>
   </tr>
-    
+
+</body>  
+  
 ```markdown
 Syntax highlighted code block
 
