@@ -1,6 +1,6 @@
 <head>
   <mata charset="utf-8">
-  <title></title>
+  <title>my title</title>
   <style type="text/css">
   *{
     margin:0;
