@@ -13,6 +13,7 @@
   .text_content{
     height:200px;
     width:270px;
+  }
    </style>
 </head>
   
