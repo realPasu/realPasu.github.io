@@ -1,36 +1,39 @@
-<head>
-  <mata charset="utf-8">
-  <title>my title</title>
-  <style type="text/css">
-  *{
-    margin:0;
-    padding:0;
-  }
-  .photo_content{
-    height:200px;
-    width:130px;
-  }
-  .text_content{
-    height:200px;
-    width:270px;
-  }
-   </style>
-</head>
-  
-<body>
-  
-  <p>This is the homepage of Ma Yiyang. Nice to see you here. </p>
+<!DOCTYPE html>
+<html>
+  <head>
+    <mata charset="utf-8">
+    <title>my title</title>
+    <style type="text/css">
+    *{
+      margin:0;
+      padding:0;
+    }
+    .photo_content{
+      height:200px;
+      width:130px;
+    }
+    .text_content{
+      height:200px;
+      width:270px;
+    }
+     </style>
+  </head>
 
-  <h1>About me</h1>
-  
-  <div style="text-align:center;" class="text_content">
-    I'm an undergraduate student of PKU.
-  </div>
-  <div class="photo_content">
-    photo here
-  </div>
+  <body>
 
-</body>  
+    <p>This is the homepage of Ma Yiyang. Nice to see you here. </p>
+
+    <h1>About me</h1>
+
+    <div style="text-align:center;" class="text_content">
+      I'm an undergraduate student of PKU.
+    </div>
+    <div class="photo_content">
+      photo here
+    </div>
+
+  </body>  
+</html>
   
 ```markdown
 Syntax highlighted code block
