@@ -3,7 +3,7 @@
 
 <h1> About me </h1>
   
-  <table border="0">
+  <table frame="void">
     <tr>
       <td width="75%">
         <p> &nbsp;&nbsp;&nbsp;&nbsp; I'm an undergraduate student of Department of Machine Intelligence, EECS, PKU. </p>
