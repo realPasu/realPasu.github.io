@@ -3,13 +3,14 @@
 <h1> About me </h1>
 <p> I'm an undergraduate student of Department of machine intelligence, EECS, PKU.</p>
 <p> Currently, I'm working as an intern student at <a href="http://39.96.165.147/struct.html">STRUCT Team</a> and supervised by <a href="http://39.96.165.147/people/liujiaying.html"> Prof. Jiaying Liu</a>.
+<p> I once worked as an intern student at  
 
 <h1> Experience </h1>
 
 <p><b>Peking University</b><p>
 
-<p>&nbsp 09/2018 - 07/2022(hopefully)</p>
-<p>&nbsp Bachelor in Intelligence Science and Technology.</p>
+<p>&nbsp; 09/2018 - 07/2022(hopefully)</p>
+<p>&nbsp; Bachelor in Intelligence Science and Technology.</p>
 
 - Bulleted
 - List
