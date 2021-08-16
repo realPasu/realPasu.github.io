@@ -5,7 +5,7 @@
   
   <table frame="void">
     <tr>
-      <td width="25%">
+      <td width="25%"> test
       </td>
       <td width="75%">
         <p> &nbsp;&nbsp;&nbsp;&nbsp; I'm an undergraduate student of Department of Machine Intelligence, EECS, PKU. </p>
