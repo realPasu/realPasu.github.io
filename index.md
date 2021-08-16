@@ -1,6 +1,8 @@
+
 ## About me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  This is the homepage of Ma Yiyang. Nice to see you here.
+  I'm an undergraduate student majoring in 
 
 ```markdown
 Syntax highlighted code block
