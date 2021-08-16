@@ -1,12 +1,16 @@
 <body>
   
-  <p>This is the homepage of Ma Yiyang. Nice to see you here.</p>
+  <p>This is the homepage of Ma Yiyang. Nice to see you here. </p>
 
   <h1>About me</h1>
   
   <tr>
-    <p>I'm an undergraduate student majoring in <p>
-    <p> test </p>
+    <td width="75%">
+      <p>I'm an undergraduate student of Department of Machine Intelligence, EECS, PKU.<p>
+      <p>test </p>
+    </td>
+    <td width="25%">
+      <p>what's this
   </tr>
 
 </body>  
