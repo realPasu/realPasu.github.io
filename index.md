@@ -6,11 +6,12 @@
   
   <tr>
     <td width="75%">
-      <p>I'm an undergraduate student of Department of Machine Intelligence, EECS, PKU.<p>
+      <p>I'm an undergraduate student of Department of Machine Intelligence, EECS, PKU.</p>
       <p>test </p>
     </td>
     <td width="25%">
-      <p>what's this
+      <p>what's this </p>
+    </td>
   </tr>
 
 </body>  
