@@ -8,7 +8,7 @@
 
 - Peking University
 
-<p> Bachelor in Intelligence Science and Technology.</p>
+<p> 09/2018 - 07/2022(hopefully) Bachelor in Intelligence Science and Technology.</p>
 
 - Bulleted
 - List
