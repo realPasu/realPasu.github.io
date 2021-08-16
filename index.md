@@ -13,4 +13,4 @@
 <p>&nbsp; Bachelor in Intelligence Science and Technology.</p>
 
 <h1> Contact me </h1>
-<p>Please send e-mail to <p1 style="blue;">myy12769@pku.edu.cn</p1></p>.
+<p>Please send e-mail to <p1 style="color:blue;">myy12769@pku.edu.cn</p1>.</p>
