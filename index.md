@@ -6,7 +6,7 @@
 
 <h1> Experience </h1>
 
-<b>Peking University</b>
+<p><b>Peking University</b><p>
 
 <p> 09/2018 - 07/2022(hopefully) Bachelor in Intelligence Science and Technology.</p>
 
