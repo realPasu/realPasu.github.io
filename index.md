@@ -1,20 +1,32 @@
+<head>
+  <mata charset="utf-8">
+  <title></title>
+  <style type="text/css">
+  *{
+    margin:0;
+    padding:0;
+  }
+  .photo_content{
+    height:200px;
+    width:130px;
+  }
+  .text_content{
+    height:200px;
+    width:270px;
+</head>
+  
 <body>
   
   <p>This is the homepage of Ma Yiyang. Nice to see you here. </p>
 
   <h1>About me</h1>
   
-  <table border="0">
-    <tr>
-      <td width="75%">
-        <p>I'm an undergraduate student of Department of Machine Intelligence, EECS, PKU.</p>
-        <p>test </p>
-      </td>
-      <td width="25%">
-        <p>what's this </p>
-      </td>
-    </tr>
-  </table>
+  <div style="text-align:center;" class="text_content">
+    I'm an undergraduate student of PKU.
+  </div>
+  <div class="photo_content">
+    photo here
+  </div>
 
 </body>  
   
