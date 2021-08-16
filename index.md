@@ -1,6 +1,4 @@
 
-## About me
-
   This is the homepage of Ma Yiyang. Nice to see you here.
   
   I'm an undergraduate student majoring in 
