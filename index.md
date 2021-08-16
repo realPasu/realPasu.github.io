@@ -4,9 +4,9 @@
 # About me
   
   <tr>
-    <h1>I'm an undergraduate student majoring in <\h1>
-    <p> test <\p>
-  <\tr>
+    <h1>I'm an undergraduate student majoring in </h1>
+    <p> test </p>
+  </tr>
     
 ```markdown
 Syntax highlighted code block
