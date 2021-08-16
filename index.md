@@ -1,10 +1,8 @@
-<h1> text </h1>
-<p> This is the homepage of Ma Yiyang.</p>
 
-# Header 1
-## Header 2
-### Header 3
-
+<p> This is the homepage of Ma Yiyang. Nice to see you here.</p>
+<h1> About me </h1>
+<p> I'm an undergraduate student of Department of machine intelligence, EECS, PKU.</p>
+<p> Currently, I'm working as an intern student at <a href="http://39.96.165.147/struct.html">STRUCT Team</a>
 - Bulleted
 - List
 
