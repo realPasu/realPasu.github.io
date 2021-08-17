@@ -20,7 +20,7 @@
   <p><b> Peking University </b><p>
 
   <p> &nbsp; 09/2018 - 07/2022(hopefully)</p>
-  <p> &nbsp;&nbsp; Bachelor in Intelligence Science and Technology.</p>
+  <p> &nbsp;&nbsp; Bachelor in Intelligence Science and Technology, EECS, PKU.</p>
 
 <h1> Others </h1>
 
