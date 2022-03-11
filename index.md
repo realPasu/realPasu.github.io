@@ -20,7 +20,12 @@
   <p><b> Peking University </b><p>
 
   <p> &nbsp; 09/2018 - 07/2022(hopefully)</p>
-  <p> &nbsp;&nbsp; Bachelor in Intelligence Science and Technology, EECS, PKU.</p>
+  <p> &nbsp;&nbsp; Bachelor in Intelligence Science and Technology, EECS.</p>
+  
+  <p><b> Microsoft Reaserch Asia </b><p>
+  
+  <p> &nbsp; 01/2022 - 04/2022(hopefully)</p>
+  <p> &nbsp;&nbsp; Research Intern of Multimedia Search and Mining Gruop.
 
 <h1> Others </h1>
 
