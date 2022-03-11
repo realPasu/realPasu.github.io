@@ -25,7 +25,7 @@
   <p><b> Microsoft Reaserch Asia </b><p>
   
   <p> &nbsp; 01/2022 - 04/2022(hopefully)</p>
-  <p> &nbsp;&nbsp; Research Intern of Multimedia Search and Mining Gruop.
+  <p> &nbsp;&nbsp; Research Intern of Multimedia Search and Mining Group.
 
 <h1> Others </h1>
 
