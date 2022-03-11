@@ -6,7 +6,7 @@
   <table frame="void">
     <tr>
       <td width="25%"> 
-        <img src="/myphoto.jpg" width="100%">  
+        <img src="/免冠照_白1寸_20220111.jpg" width="100%">  
       </td>
       <td width="75%">
         <p> &nbsp;&nbsp;&nbsp;&nbsp; I'm an undergraduate student of Department of Machine Intelligence, EECS, PKU. </p>
