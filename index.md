@@ -30,6 +30,10 @@
   <p> &nbsp; 01/2022 - Now</p>
   <p> &nbsp;&nbsp; Research Intern of Multimedia Search and Mining Group.
 
+<h1> Research </h1>
+
+  <b> Yiyang Ma<b>, Huan Yang, Bei Liu, Jianlong Fu, Jiaying Liu. "AI Illustrator: Translating Book Descriptions into Images by Prompt-based Cross-Modal Projection", submitted to ACM International Conference on Multimedia (ACM MM), Lisbon, Portugal, Oct. 2022.
+  
 <h1> Others </h1>
 
   <p> &nbsp;&nbsp;&nbsp;&nbsp;During my senior high, I took part in Chinese Physics Olympiad and got first prize. I'm still loving physics even if I have forgotten most of my knowlodge on physics and may not have chance to learn it again.</p>
