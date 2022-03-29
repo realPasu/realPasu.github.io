@@ -17,7 +17,7 @@
 
 <h1> Experience </h1>
 
-  <p><b> Peking University </b><p>
+  <p><b> Peking University </b></p>
 
   <p> &nbsp; 09/2018 - 07/2022 (hopefully)</p>
   <p> &nbsp;&nbsp; Bachelor in Intelligence Science and Technology, EECS.</p>
@@ -25,14 +25,14 @@
   <p> &nbsp; 08/2021 - Now</p>
   <p> &nbsp;&nbsp; Research Intern of Spatial and Temporal Restoration, Understanding and Compression Team, Wangxuan Institute of Computer Technology.</p>
   
-  <p><b> Microsoft Reaserch Asia </b><p>
+  <p><b> Microsoft Reaserch Asia </b></p>
   
   <p> &nbsp; 01/2022 - Now</p>
   <p> &nbsp;&nbsp; Research Intern of Multimedia Search and Mining Group.
 
 <h1> Research </h1>
 
-  <b> Yiyang Ma<b>, Huan Yang, Bei Liu, Jianlong Fu, Jiaying Liu. "AI Illustrator: Translating Book Descriptions into Images by Prompt-based Cross-Modal Projection", submitted to ACM International Conference on Multimedia (ACM MM), Lisbon, Portugal, Oct. 2022.
+  <p><b> Yiyang Ma</b>, Huan Yang, Bei Liu, Jianlong Fu, Jiaying Liu. "AI Illustrator: Translating Book Descriptions into Images by Prompt-based Cross-Modal Projection", submitted to ACM International Conference on Multimedia (ACM MM), Lisbon, Portugal, Oct. 2022.</p>
   
 <h1> Others </h1>
 
