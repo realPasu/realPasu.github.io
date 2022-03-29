@@ -32,7 +32,9 @@
 
 <h1> Research </h1>
 
-  <p><b> Yiyang Ma</b>, Huan Yang, Bei Liu, Jianlong Fu, Jiaying Liu. "AI Illustrator: Translating Book Descriptions into Images by Prompt-based Cross-Modal Projection", submitted to ACM International Conference on Multimedia (ACM MM), Lisbon, Portugal, Oct. 2022.</p>
+  <p><b> Yiyang Ma</b>, Huan Yang, Bei Liu, Jianlong Fu, Jiaying Liu. "AI Illustrator: Translating Book Descriptions into Images by Prompt-based Cross-Modal Projection", Submitted to ACM International Conference on Multimedia (ACM MM), Lisbon, Portugal, Oct. 2022.</p>
+  <p> Shixing Yu, <b>Yiyang Ma<\b>, Wei Xiang, Wenhan Yang, and Jiaying Liu. "Meta-Interpolation: Time-Arbitrary Frame Interpolation via Dual Meta-Learning", Accepted by IEEE International Symposium on Circuits and Systems (ISCAS), Austin, Texas, May 2022.<\p>
+  <p> Weiyu Zhang, <b>Yiyang Ma<\b>, Di Zhu, Lei Dong, Yu Liu. "MetroGAN: Simulating Urban Morphology with Generative Adversarial Network", Submitted to SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), Washington D.C., U.S.A., Aug. 2022.<\p>
   
 <h1> Others </h1>
 
