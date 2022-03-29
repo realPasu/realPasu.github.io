@@ -25,7 +25,7 @@
   <p> &nbsp; 08/2021 - Now</p>
   <p> &nbsp;&nbsp; Research Intern of Spatial and Temporal Restoration, Understanding and Compression Team, Wangxuan Institute of Computer Technology.</p>
   
-  <p><b> Microsoft Reaserch Asia </b></p>
+  <p><b> Microsoft Research Asia </b></p>
   
   <p> &nbsp; 01/2022 - Now</p>
   <p> &nbsp;&nbsp; Research Intern of Multimedia Search and Mining Group.
