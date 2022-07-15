@@ -10,7 +10,7 @@
       </td>
       <td width="75%">
         <p> &nbsp;&nbsp;&nbsp;&nbsp; I'm an undergraduate student of Department of Machine Intelligence, EECS, PKU. </p>
-        <p> &nbsp;&nbsp;&nbsp;&nbsp; Currently, I'm working as an intern student at <a href="http://39.96.165.147/struct.html">Spatial and Temporal Restoration, Understanding and Compression Team (STRUCT)</a> and supervised by <a href="http://39.96.165.147/people/liujiaying.html"> Prof. Jiaying Liu</a>. I once worked as an intern student at Key Laboratory of Machine Perception (MoE), supervised by <a href="http://www.cis.pku.edu.cn/info/1084/1271.htm">Prof. Hongbin Zha</a> and major in SLAM.</p>
+        <p> &nbsp;&nbsp;&nbsp;&nbsp; Currently, I'm a Master Candidate at <a href="http://39.96.165.147/struct.html">Spatial and Temporal Restoration, Understanding and Compression Team (STRUCT)</a> and supervised by <a href="http://39.96.165.147/people/liujiaying.html"> Prof. Jiaying Liu</a>. I once worked as an intern student at Key Laboratory of Machine Perception (MoE), supervised by <a href="http://www.cis.pku.edu.cn/info/1084/1271.htm">Prof. Hongbin Zha</a> and major in SLAM.</p>
       </td>
     </tr>
   </table>
@@ -19,11 +19,14 @@
 
   <p><b> Peking University </b></p>
 
-  <p> &nbsp; 09/2018 - 07/2022 (hopefully)</p>
-  <p> &nbsp;&nbsp; Bachelor in Intelligence Science and Technology, EECS.</p>
+  <p> &nbsp; 09/2018 - 07/2022</p>
+  <p> &nbsp;&nbsp; Bachelor major in Intelligence Science and Technology, EECS.</p>
   
-  <p> &nbsp; 08/2021 - Now</p>
-  <p> &nbsp;&nbsp; Research Intern of Spatial and Temporal Restoration, Understanding and Compression Team, Wangxuan Institute of Computer Technology.</p>
+  <p> &nbsp; 09/2022 - 07/2025 (hopefully)</p>
+  <p> &nbsp;&nbsp; Master Candidate major in Data Science (Computer Science and Technology), AAIS.</p>
+  
+  <p> &nbsp; 08/2021 - 08/2022</p>
+  <p> &nbsp;&nbsp; Research Intern at Spatial and Temporal Restoration, Understanding and Compression Team (STRUCT), Wangxuan Institute of Computer Technology.</p>
   
   <p><b> Microsoft Research Asia </b></p>
   
