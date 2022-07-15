@@ -38,7 +38,9 @@
   
 <h1> Others </h1>
 
-  <p> &nbsp;&nbsp;&nbsp;&nbsp;During my senior high, I took part in Chinese Physics Olympiad and got first prize. I'm still loving physics even if I have forgotten most of my knowlodge on physics and may not have chance to learn it again.</p>
+  <p> First prize in Chinese Physics Olympiad (CPhO), 2017.</p>
+  <p> Third prize in Chinese Physics Olympiad (CPhO), 2016.</p>
+  <p> I'm still loving physics even if I have forgotten most of my knowlodge on physics and may not have chance to learn it again. So sad.</p>
 
 <h1> Contact me </h1>
   <p> &nbsp;&nbsp;&nbsp;&nbsp;Please send e-mail to <p1 style="color:#0000FF;">myy12769@pku.edu.cn</p1>.</p>
