@@ -41,8 +41,8 @@
   
 <h1> Others </h1>
 
-  <p> First prize in <i>Chinese Physics Olympiad</i> (<i>CPhO</i>), 2017.</p>
-  <p> Third prize in <i>Chinese Physics Olympiad</i> (<i>CPhO</i>), 2016.</p>
+  <p> First prize in <i>the 34th Chinese Physics Olympiad</i> (<i>CPhO</i>), 2017.</p>
+  <p> Third prize in <i>the 33th Chinese Physics Olympiad</i> (<i>CPhO</i>), 2016.</p>
   <p> I'm still loving physics even if I have forgotten most of my knowlodge on physics and may not have chance to learn it again. So sad.</p>
 
 <h1> Contact me </h1>
