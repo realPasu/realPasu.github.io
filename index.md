@@ -34,8 +34,8 @@
 
 <h1> Research </h1>
 
-  <p><b>Yiyang Ma</b>, Huan Yang, Bei Liu, Jianlong Fu, Jiaying Liu. "AI Illustrator: Translating Book Descriptions into Images by Prompt-based Cross-Modal Generation", accepted by <i>ACM International Conference on Multimedia</i> (<i>ACM MM</i>), Lisbon, Portugal, Oct. 2022. (<b>Oral</b>) <a href="https://arxiv.org/abs/2209.03160">[arXiv]</a> </p>
-  <p> Weiyu Zhang, <b>Yiyang Ma</b>, Di Zhu, Lei Dong, Yu Liu. "MetroGAN: Simulating Urban Morphology with Generative Adversarial Network", accepted by <i>ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i> (<i>SIGKDD</i>), Washington D.C., U.S.A., Aug. 2022. <a href="https://arxiv.org/abs/2207.02590">[arXiv]</a> </p>
+  <p><b>Yiyang Ma</b>, Huan Yang, Bei Liu, Jianlong Fu, Jiaying Liu. "AI Illustrator: Translating Book Descriptions into Images by Prompt-based Cross-Modal Generation", in proceedings of <i>ACM International Conference on Multimedia</i> (<i>ACM MM</i>), Lisbon, Portugal, Oct. 2022. (<b>Oral</b>) <a href="https://arxiv.org/abs/2209.03160">[arXiv]</a> </p>
+  <p> Weiyu Zhang, <b>Yiyang Ma</b>, Di Zhu, Lei Dong, Yu Liu. "MetroGAN: Simulating Urban Morphology with Generative Adversarial Network", in proceedings of <i>ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i> (<i>SIGKDD</i>), Washington D.C., U.S.A., Aug. 2022. <a href="https://arxiv.org/abs/2207.02590">[arXiv]</a> </p>
   <p> Shixing Yu, <b>Yiyang Ma</b>, Wei Xiang, Wenhan Yang, and Jiaying Liu. "Meta-Interpolation: Time-Arbitrary Frame Interpolation via Dual Meta-Learning", in proceedings of the <i>IEEE International Symposium on Circuits and Systems</i> (<i>ISCAS</i>), Austin, Texas, May 2022. (<b>MSA-TC Best Paper</b>) <a href="https://arxiv.org/abs/2207.13670">[arXiv]</a> </p>
   
 <h1> Others </h1>
