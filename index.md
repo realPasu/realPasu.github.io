@@ -33,15 +33,15 @@
 
 <h1> Research </h1>
 
-  <p><b>Yiyang Ma</b>, Huan Yang, Bei Liu, Jianlong Fu and Jiaying Liu. "AI Illustrator: Translating Book Descriptions into Images by Prompt-based Cross-Modal Generation", in proceedings of <i>ACM International Conference on Multimedia</i> (<i>ACM MM</i>), Lisbon, Portugal, Oct. 2022. (<b>Oral</b>) <a href="https://arxiv.org/abs/2209.03160">[arXiv]</a> </p>
-  <p> Ludan Ruan, <b>Yiyang Ma</b>, Huan Yang, Huiguo He, Bei Liu, Nicholas Jing Yuan, Qin Jin, Jianlong Fu and Baining Guo. "MM-Diffusion: Learning Multi-modal Diffusion Models for Joint Audio and Video Generation", submitted to <i> IEEE/CVF Conference on Computer Vision and Pattern Recognition</i> (<i>CVPR</i>), Vancouver, Canada, June 2023.
-  <p> Weiyu Zhang, <b>Yiyang Ma</b>, Di Zhu, Lei Dong and Yu Liu. "MetroGAN: Simulating Urban Morphology with Generative Adversarial Network", in proceedings of <i>ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i> (<i>SIGKDD</i>), Washington D.C., U.S.A., Aug. 2022. <a href="https://arxiv.org/abs/2207.02590">[arXiv]</a> </p>
-  <p> Shixing Yu, <b>Yiyang Ma</b>, Wei Xiang, Wenhan Yang, and Jiaying Liu. "Meta-Interpolation: Time-Arbitrary Frame Interpolation via Dual Meta-Learning", in proceedings of the <i>IEEE International Symposium on Circuits and Systems</i> (<i>ISCAS</i>), Austin, Texas, May 2022. (<b>MSA-TC Best Paper</b>) <a href="https://arxiv.org/abs/2207.13670">[arXiv]</a> </p>
+  <p><b>Yiyang Ma</b>, Huan Yang, Bei Liu, Jianlong Fu and Jiaying Liu. "AI Illustrator: Translating Book Descriptions into Images by Prompt-based Cross-Modal Generation", in proceedings of <i>ACM International Conference on Multimedia</i> (<b><i>ACM MM</i></b>), Lisbon, Portugal, Oct. 2022. (<b>Oral</b>) <a href="https://arxiv.org/abs/2209.03160">[arXiv]</a> </p>
+  <p> Ludan Ruan, <b>Yiyang Ma</b>, Huan Yang, Huiguo He, Bei Liu, Nicholas Jing Yuan, Qin Jin, Jianlong Fu and Baining Guo. "MM-Diffusion: Learning Multi-modal Diffusion Models for Joint Audio and Video Generation", submitted to <i> IEEE/CVF Conference on Computer Vision and Pattern Recognition</i> (<b><i>CVPR</i></b>), Vancouver, Canada, June 2023.
+  <p> Weiyu Zhang, <b>Yiyang Ma</b>, Di Zhu, Lei Dong and Yu Liu. "MetroGAN: Simulating Urban Morphology with Generative Adversarial Network", in proceedings of <i>ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i> (<b><i>SIGKDD</i></b>), Washington D.C., U.S.A., Aug. 2022. <a href="https://arxiv.org/abs/2207.02590">[arXiv]</a> </p>
+  <p> Shixing Yu, <b>Yiyang Ma</b>, Wei Xiang, Wenhan Yang, and Jiaying Liu. "Meta-Interpolation: Time-Arbitrary Frame Interpolation via Dual Meta-Learning", in proceedings of the <i>IEEE International Symposium on Circuits and Systems</i> (<b><i>ISCAS</i></b>), Austin, Texas, May 2022. (<b>MSA-TC Best Paper</b>) <a href="https://arxiv.org/abs/2207.13670">[arXiv]</a> </p>
   
 <h1> Others </h1>
 
-  <p> First prize in <i>the 34th Chinese Physics Olympiad</i> (<i>CPhO</i>), 2017.</p>
-  <p> Third prize in <i>the 33th Chinese Physics Olympiad</i> (<i>CPhO</i>), 2016.</p>
+  <p> First prize in <i>the 34th Chinese Physics Olympiad</i> (<i>CPhO</i>), Chongqing, Nov. 2017.</p>
+  <p> Third prize in <i>the 33th Chinese Physics Olympiad</i> (<i>CPhO</i>), Wuhan and Huanggang, Nov. 2016.</p>
   <p> I'm still loving physics even if I may not have any chance to learn it again. So sad.</p>
 
 <h1> Contact me </h1>
