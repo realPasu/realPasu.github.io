@@ -40,8 +40,8 @@
   
 <h1> Others </h1>
 
-  <p> First prize in <i>the 34th Chinese Physics Olympiad</i> (<i>CPhO</i>), Chongqing, Nov. 2017.</p>
-  <p> Third prize in <i>the 33th Chinese Physics Olympiad</i> (<i>CPhO</i>), Wuhan and Huanggang, Nov. 2016.</p>
+  <p> First prize in <i>the 34th Chinese Physics Olympiad</i> (<b><i>CPhO</i></b>), Chongqing, Nov. 2017.</p>
+  <p> Third prize in <i>the 33th Chinese Physics Olympiad</i> (<b><i>CPhO</i></b>), Wuhan and Huanggang, Nov. 2016.</p>
   <p> I'm still loving physics even if I may not have any chance to learn it again. So sad.</p>
 
 <h1> Contact me </h1>
