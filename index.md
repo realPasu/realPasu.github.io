@@ -8,7 +8,9 @@
       <td width="25%"> 
         <img src="/免冠照_白1寸_20220111.jpg" width="100%">  
       </td>
-      <td width="75%"><p> &nbsp;&nbsp;&nbsp;&nbsp; Currently, I'm a first-year Master Candidate at <a href="http://39.96.165.147/struct.html">Spatial and Temporal Restoration, Understanding and Compression Team (STRUCT)</a> and supervised by <a href="http://39.96.165.147/people/liujiaying.html"> Prof. Jiaying Liu</a>.</p>
+      <td width="75%">
+        <p> &nbsp;&nbsp;&nbsp;&nbsp; Currently, I'm a first-year Master Candidate at <a href="http://39.96.165.147/struct.html">Spatial and Temporal Restoration, Understanding and Compression Team (STRUCT)</a> and supervised by <a href="http://39.96.165.147/people/liujiaying.html"> Prof. Jiaying Liu</a>.</p>
+        <p> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://scholar.google.com/citations?user=cjZ0vJMAAAAJ&hl=en">[Google Scholar]</a></p>
       </td>
     </tr>
   </table>
