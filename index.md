@@ -31,12 +31,15 @@
   <p> &nbsp;&nbsp; Research Intern of Multimedia Search and Mining Group.
 
 <h1> Research </h1>
-
+<h2> Preprints </h1>
+  <p><b>Yiyang Ma</b>, Huan Yang, Wenhan Yang, Jianlong Fu and Jiaying Liu. "Solving Diffusion ODEs with Optimal Boundary Conditions for Better Image Super-Resolution", submitted to <i> Thirty-seventh Conference on Neural Information Processing Systems</i> (<b><i>NeurIPS</i></b>), New Orleans, U.S.A., Dec. 2023.</p>
   <p><b>Yiyang Ma</b>, Huan Yang, Wenjing Wang, Jianlong Fu and Jiaying Liu. "Unified Multi-Modal Latent Diffusion for Joint Subject and Text Conditional Image Generation", submitted to <i> IEEE/CVF International Conference on Computer Vision</i> (<b><i>ICCV</i></b>), Paris, France, Oct. 2023. <a href="https://arxiv.org/abs/2303.09319">[arXiv]</a> </p>
+  <p>Zejia Fan, Wenhan Yang, <b>Yiyang Ma</b>, Jiaying Liu, Zongming Guo. "Real-world Super Resolution with Adaptive Self-Similarity Mining", submitted to <i> Thirty-seventh Conference on Neural Information Processing Systems</i> (<b><i>NeurIPS</i></b>), New Orleans, U.S.A., Dec. 2023.</p>
+<h2> Selected Publications </h2>
   <p><b>Yiyang Ma</b>, Huan Yang, Bei Liu, Jianlong Fu and Jiaying Liu. "AI Illustrator: Translating Raw Descriptions into Images by Prompt-based Cross-Modal Generation", in proceedings of <i>ACM International Conference on Multimedia</i> (<b><i>ACM MM</i></b>), Lisbon, Portugal, Oct. 2022. (<b>Oral</b>) <a href="https://arxiv.org/abs/2209.03160">[arXiv]</a> </p>
   <p> Ludan Ruan, <b>Yiyang Ma</b>, Huan Yang, Huiguo He, Bei Liu, Nicholas Jing Yuan, Qin Jin, Jianlong Fu and Baining Guo. "MM-Diffusion: Learning Multi-modal Diffusion Models for Joint Audio and Video Generation", accepted by <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition</i> (<b><i>CVPR</i></b>), Vancouver, Canada, June 2023. <a href="https://arxiv.org/abs/2212.09478">[arXiv]</a> </p>
   <p> Weiyu Zhang, <b>Yiyang Ma</b>, Di Zhu, Lei Dong and Yu Liu. "MetroGAN: Simulating Urban Morphology with Generative Adversarial Network", in proceedings of <i>ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i> (<b><i>SIGKDD</i></b>), Washington D.C., U.S.A., Aug. 2022. <a href="https://arxiv.org/abs/2207.02590">[arXiv]</a> </p>
-  <p> Shixing Yu, <b>Yiyang Ma</b>, Wei Xiang, Wenhan Yang, and Jiaying Liu. "Meta-Interpolation: Time-Arbitrary Frame Interpolation via Dual Meta-Learning", in proceedings of the <i>IEEE International Symposium on Circuits and Systems</i> (<b><i>ISCAS</i></b>), Austin, Texas, May 2022. (<b>MSA-TC Best Paper</b>) <a href="https://arxiv.org/abs/2207.13670">[arXiv]</a> </p>
+  <p> Shixing Yu, <b>Yiyang Ma</b>, Wei Xiang, Wenhan Yang, and Jiaying Liu. "Meta-Interpolation: Time-Arbitrary Frame Interpolation via Dual Meta-Learning", in proceedings of the <i>IEEE International Symposium on Circuits and Systems</i> (<b><i>ISCAS</i></b>), Austin, U.S.A., May 2022. (<b>MSA-TC Best Paper</b>) <a href="https://arxiv.org/abs/2207.13670">[arXiv]</a> </p>
   
 <h1> Others </h1>
 
