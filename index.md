@@ -33,9 +33,8 @@
 <h1> Research </h1>
 
 <h2> Preprints </h2>
-  <p><b>Yiyang Ma</b>, Huan Yang, Wenhan Yang, Jianlong Fu and Jiaying Liu. "Solving Diffusion ODEs with Optimal Boundary Conditions for Better Image Super-Resolution", submitted to <i> Thirty-seventh Conference on Neural Information Processing Systems</i> (<b><i>NeurIPS</i></b>), New Orleans, U.S.A., Dec. 2023. <a href="https://arxiv.org/abs/2305.15357">[arXiv]</a> </p>
+  <p><b>Yiyang Ma</b>, Huan Yang, Wenhan Yang, Jianlong Fu and Jiaying Liu. "Solving Diffusion ODEs with Optimal Boundary Conditions for Better Image Super-Resolution", arXiv preprint. <a href="https://arxiv.org/abs/2305.15357">[arXiv]</a> </p>
   <p><b>Yiyang Ma</b>, Huan Yang, Wenjing Wang, Jianlong Fu and Jiaying Liu. "Unified Multi-Modal Latent Diffusion for Joint Subject and Text Conditional Image Generation", arXiv preprint. <a href="https://arxiv.org/abs/2303.09319">[arXiv]</a> </p>
-  <p>Zejia Fan, Wenhan Yang, <b>Yiyang Ma</b>, Jiaying Liu, Zongming Guo. "Real-world Super Resolution with Adaptive Self-Similarity Mining", submitted to <i> Thirty-seventh Conference on Neural Information Processing Systems</i> (<b><i>NeurIPS</i></b>), New Orleans, U.S.A., Dec. 2023.</p>
   
 <h2> Accepted Publications </h2>
   <p><b>Yiyang Ma</b>, Huan Yang, Bei Liu, Jianlong Fu and Jiaying Liu. "AI Illustrator: Translating Raw Descriptions into Images by Prompt-based Cross-Modal Generation", in proceedings of <i>ACM International Conference on Multimedia</i> (<b><i>ACM MM</i></b>), Lisbon, Portugal, Oct. 2022. (<b>Oral</b>) <a href="https://arxiv.org/abs/2209.03160">[arXiv]</a> </p>
