@@ -43,7 +43,7 @@
   <p><b>Yiyang Ma</b>, Wenhan Yang, Jiaying Liu. "Correcting Diffusion-Based Perceptual Image Compression with Privileged End-to-End Decoder", arXiv preprint.
   <p><b>Yiyang Ma</b>, Huan Yang, Wenjing Wang, Jianlong Fu and Jiaying Liu. "Unified Multi-Modal Latent Diffusion for Joint Subject and Text Conditional Image Generation", arXiv preprint. <a href="https://arxiv.org/abs/2303.09319">[arXiv]</a> </p>
   <p><b>Yiyang Ma*</b>, Haowei Kuang*, Huan Yang, Jianlong Fu, and Jiaying Liu. "Prompt-Based Modality Bridging for Unified Text-to-Face Generation and Manipulation", submitted to <i>ACM Transactions on Multimedia Computing Communications and Applications</i> (<b><i>ACM TOMM</i></b>).</p>
-  <p>Jialu Sui, <b>Yiyang Ma</b>, Wenhan Yang, Xiaokang Zhang, Man-On Pun, and Jiaying Liu. "Diffusion Enhancement for Cloud Removal in Ultra-Resolution Remote Sensing Imagery", submitted to <i>IEEE Transactions on Geoscience and Remote Sensing</i> (<b><i>IEEE TGRS</i></b>).</p>
+  <p>Jialu Sui, <b>Yiyang Ma</b>, Wenhan Yang, Xiaokang Zhang, Man-On Pun, and Jiaying Liu. "Diffusion Enhancement for Cloud Removal in Ultra-Resolution Remote Sensing Imagery", submitted to <i>IEEE Transactions on Geoscience and Remote Sensing</i> (<b><i>IEEE TGRS</i></b>). <a href="https://arxiv.org/abs/2401.15105">[arXiv]</a> </p>
   
 <h1> Others </h1>
 
