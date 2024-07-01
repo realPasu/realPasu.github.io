@@ -10,7 +10,7 @@
       </td>
       <td width="75%">
         <p> &nbsp;&nbsp;&nbsp;&nbsp; I'm a second-year Master Candidate at <a href="http://39.96.165.147/struct.html">Spatial and Temporal Restoration, Understanding and Compression Team (STRUCT)</a>, Peking University, and supervised by <a href="http://39.96.165.147/people/liujiaying.html"> Prof. Jiaying Liu</a>.</p>
-        <p> &nbsp;&nbsp;&nbsp;&nbsp; Currently, I'm an AGI Research Intern at <a href="https://www.deepseek.com/en"> DeepSeek AI </a>. </p>
+        <p> &nbsp;&nbsp;&nbsp;&nbsp; Currently, I'm an AGI Research Intern at <a href="https://www.deepseek.com/en">DeepSeek AI</a>. </p>
         <p> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://scholar.google.com/citations?user=cjZ0vJMAAAAJ&hl=en">[Google Scholar]</a></p>
       </td>
     </tr>
@@ -42,20 +42,20 @@
 
 <h2> Accepted Papers </h2>
 <h3> Conference Papers </h3>
-  [1] <p><b>Yiyang Ma</b>, Wenhan Yang, Jiaying Liu. "Correcting Diffusion-Based Perceptual Image Compression with Privileged End-to-End Decoder", accepted by <i>International Conference on Machine Learning</i> (<b><i>ICML</i></b>), Vienna, Austria, July, 2024. <a href="https://arxiv.org/abs/2404.04916">[arXiv]</a> </p>
-  [2] <p><b>Yiyang Ma</b>, Huan Yang, Wenhan Yang, Jianlong Fu and Jiaying Liu. "Solving Diffusion ODEs with Optimal Boundary Conditions for Better Image Super-Resolution", in proceedings of <i>International Conference on Learning Representations</i> (<b><i>ICLR</i></b>), Vienna, Austria, May, 2024. <a href="https://arxiv.org/abs/2305.15357">[arXiv]</a> </p>
-  [3] <p><b>Yiyang Ma</b>, Huan Yang, Bei Liu, Jianlong Fu and Jiaying Liu. "AI Illustrator: Translating Raw Descriptions into Images by Prompt-based Cross-Modal Generation", in proceedings of <i>ACM International Conference on Multimedia</i> (<b><i>ACM MM</i></b>), Lisbon, Portugal, Oct. 2022. (<b>Oral</b>) <a href="https://arxiv.org/abs/2209.03160">[arXiv]</a> </p>
-  [4] <p> Ludan Ruan, <b>Yiyang Ma</b>, Huan Yang, Huiguo He, Bei Liu, Nicholas Jing Yuan, Qin Jin, Jianlong Fu and Baining Guo. "MM-Diffusion: Learning Multi-modal Diffusion Models for Joint Audio and Video Generation", in proceedings of <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition</i> (<b><i>CVPR</i></b>), Vancouver, Canada, June 2023. <a href="https://arxiv.org/abs/2212.09478">[arXiv]</a> </p>
-  [5] <p> Weiyu Zhang, <b>Yiyang Ma</b>, Di Zhu, Lei Dong and Yu Liu. "MetroGAN: Simulating Urban Morphology with Generative Adversarial Network", in proceedings of <i>ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i> (<b><i>SIGKDD</i></b>), Washington D.C., U.S.A., Aug. 2022. <a href="https://arxiv.org/abs/2207.02590">[arXiv]</a> </p>
-  [6] <p> Shixing Yu, <b>Yiyang Ma</b>, Wei Xiang, Wenhan Yang, and Jiaying Liu. "Meta-Interpolation: Time-Arbitrary Frame Interpolation via Dual Meta-Learning", in proceedings of <i>IEEE International Symposium on Circuits and Systems</i> (<b><i>ISCAS</i></b>), Austin, U.S.A., May 2022. (<b>MSA-TC Best Paper</b>) <a href="https://arxiv.org/abs/2207.13670">[arXiv]</a> </p>
-  [7] <p> Lehong Wu, Lilang Lin, Jiahang Zhang, <b>Yiyang Ma</b> and Jiaying Liu. "MacDiff: Unified Skeleton Modeling with Masked Conditional Diffusion", accepted by <i>European Conference on Computer Vision</i> (<b><i>ECCV</i></b>), Milan, Italy, Sep., 2024. </p>
+  <p>[1] <b>Yiyang Ma</b>, Wenhan Yang, Jiaying Liu. "Correcting Diffusion-Based Perceptual Image Compression with Privileged End-to-End Decoder", accepted by <i>International Conference on Machine Learning</i> (<b><i>ICML</i></b>), Vienna, Austria, July, 2024. <a href="https://arxiv.org/abs/2404.04916">[arXiv]</a> </p>
+  <p>[2] <b>Yiyang Ma</b>, Huan Yang, Wenhan Yang, Jianlong Fu and Jiaying Liu. "Solving Diffusion ODEs with Optimal Boundary Conditions for Better Image Super-Resolution", in proceedings of <i>International Conference on Learning Representations</i> (<b><i>ICLR</i></b>), Vienna, Austria, May, 2024. <a href="https://arxiv.org/abs/2305.15357">[arXiv]</a> </p>
+  <p>[3] <b>Yiyang Ma</b>, Huan Yang, Bei Liu, Jianlong Fu and Jiaying Liu. "AI Illustrator: Translating Raw Descriptions into Images by Prompt-based Cross-Modal Generation", in proceedings of <i>ACM International Conference on Multimedia</i> (<b><i>ACM MM</i></b>), Lisbon, Portugal, Oct. 2022. (<b>Oral</b>) <a href="https://arxiv.org/abs/2209.03160">[arXiv]</a> </p>
+  <p>[4] Ludan Ruan, <b>Yiyang Ma</b>, Huan Yang, Huiguo He, Bei Liu, Nicholas Jing Yuan, Qin Jin, Jianlong Fu and Baining Guo. "MM-Diffusion: Learning Multi-modal Diffusion Models for Joint Audio and Video Generation", in proceedings of <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition</i> (<b><i>CVPR</i></b>), Vancouver, Canada, June 2023. <a href="https://arxiv.org/abs/2212.09478">[arXiv]</a> </p>
+  <p>[5] Weiyu Zhang, <b>Yiyang Ma</b>, Di Zhu, Lei Dong and Yu Liu. "MetroGAN: Simulating Urban Morphology with Generative Adversarial Network", in proceedings of <i>ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i> (<b><i>SIGKDD</i></b>), Washington D.C., U.S.A., Aug. 2022. <a href="https://arxiv.org/abs/2207.02590">[arXiv]</a> </p>
+  <p>[6] Shixing Yu, <b>Yiyang Ma</b>, Wei Xiang, Wenhan Yang, and Jiaying Liu. "Meta-Interpolation: Time-Arbitrary Frame Interpolation via Dual Meta-Learning", in proceedings of <i>IEEE International Symposium on Circuits and Systems</i> (<b><i>ISCAS</i></b>), Austin, U.S.A., May 2022. (<b>MSA-TC Best Paper</b>) <a href="https://arxiv.org/abs/2207.13670">[arXiv]</a> </p>
+  <p>[7] Lehong Wu, Lilang Lin, Jiahang Zhang, <b>Yiyang Ma</b> and Jiaying Liu. "MacDiff: Unified Skeleton Modeling with Masked Conditional Diffusion", accepted by <i>European Conference on Computer Vision</i> (<b><i>ECCV</i></b>), Milan, Italy, Sep., 2024. </p>
 
 <h3> Journal Papers </h3>
-  [1] <p>Jialu Sui, <b>Yiyang Ma</b>, Wenhan Yang, Xiaokang Zhang, Man-On Pun, and Jiaying Liu. "Diffusion Enhancement for Cloud Removal in Ultra-Resolution Remote Sensing Imagery", submitted to <i>IEEE Transactions on Geoscience and Remote Sensing</i> (<b><i>IEEE TGRS</i></b>). <a href="https://arxiv.org/abs/2401.15105">[arXiv]</a> </p>
+  <p>[1] Jialu Sui, <b>Yiyang Ma</b>, Wenhan Yang, Xiaokang Zhang, Man-On Pun, and Jiaying Liu. "Diffusion Enhancement for Cloud Removal in Ultra-Resolution Remote Sensing Imagery", accepted by <i>IEEE Transactions on Geoscience and Remote Sensing</i> (<b><i>IEEE TGRS</i></b>). <a href="https://arxiv.org/abs/2401.15105">[arXiv]</a> </p>
 
 <h2> Preprints and Papers under Review </h2>
-  [1] <p><b>Yiyang Ma</b>, Huan Yang, Wenjing Wang, Jianlong Fu and Jiaying Liu. "Unified Multi-Modal Latent Diffusion for Joint Subject and Text Conditional Image Generation", arXiv preprint. <a href="https://arxiv.org/abs/2303.09319">[arXiv]</a> </p>
-  [2] <p><b>Yiyang Ma*</b>, Haowei Kuang*, Huan Yang, Jianlong Fu, and Jiaying Liu. "Prompt-Based Modality Bridging for Unified Text-to-Face Generation and Manipulation", submitted to <i>ACM Transactions on Multimedia Computing Communications and Applications</i> (<b><i>ACM TOMM</i></b>).</p>
+  <p>[1] <b>Yiyang Ma</b>, Huan Yang, Wenjing Wang, Jianlong Fu and Jiaying Liu. "Unified Multi-Modal Latent Diffusion for Joint Subject and Text Conditional Image Generation", arXiv preprint. <a href="https://arxiv.org/abs/2303.09319">[arXiv]</a> </p>
+  <p>[2] <b>Yiyang Ma*</b>, Haowei Kuang*, Huan Yang, Jianlong Fu, and Jiaying Liu. "Prompt-Based Modality Bridging for Unified Text-to-Face Generation and Manipulation", submitted to <i>ACM Transactions on Multimedia Computing Communications and Applications</i> (<b><i>ACM TOMM</i></b>).</p>
   
 <h1> Others </h1>
 
