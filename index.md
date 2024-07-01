@@ -61,8 +61,8 @@
   
 <h1> Others </h1>
 
-  <p> Gold Medalist (or <b>First Prize Winner</b> officialy) in <i>the 34th Chinese Physics Olympiad</i> (<b><i>CPhO</i></b>), Chongqing, Nov. 2017.</p>
-  <p> Bronze Medalist (or <b>Third Prize Winner</b> officialy) in <i>the 33th Chinese Physics Olympiad</i> (<b><i>CPhO</i></b>), Wuhan and Huanggang, Nov. 2016.</p>
+  <p> <b>Gold Medalist</b> (or <b>First Prize Winner</b> officialy) in <i>the 34th Chinese Physics Olympiad</i> (<b><i>CPhO</i></b>), Chongqing, Nov. 2017.</p>
+  <p> <b>Bronze Medalist</b> (or <b>Third Prize Winner</b> officialy) in <i>the 33th Chinese Physics Olympiad</i> (<b><i>CPhO</i></b>), Wuhan and Huanggang, Nov. 2016.</p>
   <p> I'm still loving physics even if I may not have any chance to learn it again. So sad.</p>
 
 <h1> Contact me </h1>
