@@ -41,7 +41,9 @@
 <h1> Research </h1>
 
 <h2> Accepted Papers </h2>
+
 <h3> Conference Papers </h3>
+
   <p>[1] <b>Yiyang Ma</b>, Wenhan Yang, Jiaying Liu. "Correcting Diffusion-Based Perceptual Image Compression with Privileged End-to-End Decoder", accepted by <i>International Conference on Machine Learning</i> (<b><i>ICML</i></b>), Vienna, Austria, July, 2024. <a href="https://arxiv.org/abs/2404.04916">[arXiv]</a> </p>
   <p>[2] <b>Yiyang Ma</b>, Huan Yang, Wenhan Yang, Jianlong Fu and Jiaying Liu. "Solving Diffusion ODEs with Optimal Boundary Conditions for Better Image Super-Resolution", in proceedings of <i>International Conference on Learning Representations</i> (<b><i>ICLR</i></b>), Vienna, Austria, May, 2024. <a href="https://arxiv.org/abs/2305.15357">[arXiv]</a> </p>
   <p>[3] <b>Yiyang Ma</b>, Huan Yang, Bei Liu, Jianlong Fu and Jiaying Liu. "AI Illustrator: Translating Raw Descriptions into Images by Prompt-based Cross-Modal Generation", in proceedings of <i>ACM International Conference on Multimedia</i> (<b><i>ACM MM</i></b>), Lisbon, Portugal, Oct. 2022. (<b>Oral</b>) <a href="https://arxiv.org/abs/2209.03160">[arXiv]</a> </p>
