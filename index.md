@@ -54,11 +54,11 @@
   <p>[8] Shixing Yu, <b>Yiyang Ma</b>, Wei Xiang, Wenhan Yang, and Jiaying Liu. "Meta-Interpolation: Time-Arbitrary Frame Interpolation via Dual Meta-Learning", in proceedings of <i>IEEE International Symposium on Circuits and Systems</i> (<b><i>ISCAS</i></b>), Austin, U.S.A., May 2022. (<b>MSA-TC Best Paper</b>) <a href="https://arxiv.org/abs/2207.13670">[arXiv]</a> </p>
 
 <h3> Journal Papers </h3>
-  <p>[1] Jialu Sui, <b>Yiyang Ma</b>, Wenhan Yang, Xiaokang Zhang, Man-On Pun, and Jiaying Liu. "Diffusion Enhancement for Cloud Removal in Ultra-Resolution Remote Sensing Imagery", accepted by <i>IEEE Transactions on Geoscience and Remote Sensing</i> (<b><i>IEEE TGRS</i></b>). <a href="https://arxiv.org/abs/2401.15105">[arXiv]</a> </p>
+  <p>[1] <b>Yiyang Ma*</b>, Haowei Kuang*, Huan Yang, Jianlong Fu, and Jiaying Liu. "Prompt-Based Modality Bridging for Unified Text-to-Face Generation and Manipulation", accepted by <i>ACM Transactions on Multimedia Computing Communications and Applications</i> (<b><i>ACM TOMM</i></b>).</p>
+  <p>[2] Jialu Sui, <b>Yiyang Ma</b>, Wenhan Yang, Xiaokang Zhang, Man-On Pun, and Jiaying Liu. "Diffusion Enhancement for Cloud Removal in Ultra-Resolution Remote Sensing Imagery", accepted by <i>IEEE Transactions on Geoscience and Remote Sensing</i> (<b><i>IEEE TGRS</i></b>). <a href="https://arxiv.org/abs/2401.15105">[arXiv]</a> </p>
 
 <h2> Preprints and Papers under Review </h2>
   <p>[1] <b>Yiyang Ma</b>, Huan Yang, Wenjing Wang, Jianlong Fu and Jiaying Liu. "Unified Multi-Modal Latent Diffusion for Joint Subject and Text Conditional Image Generation", arXiv preprint. <a href="https://arxiv.org/abs/2303.09319">[arXiv]</a> </p>
-  <p>[2] <b>Yiyang Ma*</b>, Haowei Kuang*, Huan Yang, Jianlong Fu, and Jiaying Liu. "Prompt-Based Modality Bridging for Unified Text-to-Face Generation and Manipulation", submitted to <i>ACM Transactions on Multimedia Computing Communications and Applications</i> (<b><i>ACM TOMM</i></b>).</p>
   
 <h1> Others </h1>
 
