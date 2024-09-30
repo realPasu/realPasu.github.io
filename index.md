@@ -31,16 +31,12 @@
 <h1> Experience </h1>
   
   <p><b> Microsoft Research Asia </b></p>
-  
   <p> &nbsp; 01/2022 - 08/2022 </p>
   <p> &nbsp;&nbsp; <b>Research Intern</b>, Multimedia Search and Mining Group. </p>
 
-  <!--
-  <p><b> DeepSeek AI </b></p>
-
-  <p> &nbsp; 06/2024 - </p>
-  <p> &nbsp;&nbsp; <b>AGI Research Intern</b>. </p>
-  -->
+  <!--<p><b> DeepSeek AI </b></p>
+  <p> &nbsp; 06/2024 - Now</p>
+  <p> &nbsp;&nbsp; <b>AGI Research Intern</b>. </p>-->
 
 <h1> Research </h1>
 
