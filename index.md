@@ -59,6 +59,7 @@
 
 <h2> Preprints and Papers under Review </h2>
   <p>[1] <b>Yiyang Ma</b>, Huan Yang, Wenjing Wang, Jianlong Fu and Jiaying Liu. "Unified Multi-Modal Latent Diffusion for Joint Subject and Text Conditional Image Generation", arXiv preprint. <a href="https://arxiv.org/abs/2303.09319">[arXiv]</a> </p>
+  <p>[2] Chengyue Wu, Xiaokang Chen, Zhiyu Wu, <b>Yiyang Ma</b>, Xingchao Liu, Zizheng Pan, Wen Liu, Zhenda Xie, Xingkai Yu, Chong Ruan and Ping Luo. "Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation", arXiv preprint. <a href="https://arxiv.org/abs/2410.13848">[arXiv]</a> </p>
   
 <h1> Others </h1>
 
