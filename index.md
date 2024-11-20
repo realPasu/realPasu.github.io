@@ -36,7 +36,7 @@
 
   <p><b> DeepSeek AI </b></p>
   <p> &nbsp; 06/2024 - 10/2024</p>
-  <p> &nbsp;&nbsp; <b>AGI Research Intern</b>. </p>
+  <p> &nbsp;&nbsp; <b>AGI Research Intern</b>, Multimodality Group. </p>
 
 <h1> Research </h1>
 
