@@ -72,4 +72,4 @@
   <p> I'm still loving physics even if I may not have any chance to learn it again. So sad.</p>
 
 <h1> Contact me </h1>
-  <p> &nbsp;&nbsp;&nbsp;&nbsp;Please send e-mail to <p1 style="color:#0000FF;">myy12769@pku.edu.cn</p1>.</p>
+  <p> Please send e-mail to <p1 style="color:#0000FF;">myy12769@pku.edu.cn</p1>.</p>
