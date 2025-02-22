@@ -25,7 +25,7 @@
   <p> &nbsp; 09/2018 - 07/2022</p>
   <p> &nbsp;&nbsp; Bachelor major in Intelligence Science and Technology, EECS.</p>
   
-  <p> &nbsp; 09/2022 - 07/2025 (hopefully)</p>
+  <p> &nbsp; 09/2022 - 07/2025 (expected)</p>
   <p> &nbsp;&nbsp; Master Candidate major in Data Science (Computer Science and Technology), AAIS.</p>
 
 <h1> Experience </h1>
@@ -37,6 +37,8 @@
   <p><b> DeepSeek-AI </b></p>
   <p> &nbsp; 06/2024 - 11/2024</p>
   <p> &nbsp;&nbsp; <b>AGI Research Intern</b>, Multimodality Group. </p>
+  <p> &nbsp; 04/2025 (expected) - </p>
+  <p> &nbsp;&nbsp; <b>AGI Researcher</b>, Multimodality Group. </p>
 
 <h1> Research </h1>
 
