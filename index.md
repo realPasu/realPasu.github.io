@@ -65,8 +65,7 @@
   <p>[5] <b>DeepSeek-AI</b>. "DeepSeek-V3 Technical Report", arXiv preprint, 2024. <a href="https://arxiv.org/abs/2412.19437">[arXiv]</a></p>
   <p>[6] <b>DeepSeek-AI</b>. "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning", arXiv preprint, 2025. <a href="https://arxiv.org/abs/2501.12948">[arXiv]</a></p>
 
-  <p>*Equal Contribution</p>
-  <p>&dagger;Project Leader</p>
+  <p>*Equal Contribution &dagger;Project Leader</p>
   
 <h1> Others </h1>
 
