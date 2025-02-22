@@ -62,7 +62,7 @@
   <p>[2] <b>Yiyang Ma</b>, Huan Yang, Wenjing Wang, Jianlong Fu and Jiaying Liu. "Unified Multi-Modal Latent Diffusion for Joint Subject and Text Conditional Image Generation", arXiv preprint, 2023. <a href="https://arxiv.org/abs/2303.09319">[arXiv]</a> </p>
   <p>[3] Chengyue Wu, Xiaokang Chen, Zhiyu Wu, <b>Yiyang Ma</b>, Xingchao Liu, Zizheng Pan, Wen Liu, Zhenda Xie, Xingkai Yu, Chong Ruan and Ping Luo. "Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation", arXiv preprint, 2024. <a href="https://arxiv.org/abs/2410.13848">[arXiv]</a> </p>
   <p>[4] Zhiyu Wu*, Xiaokang Chen*, Zizheng Pan*, Xingchao Liu*, Wen Liu*, Damai Dai, Huazuo Gao, <b>Yiyang Ma</b>, Chengyue Wu, Bingxuan Wang, Zhenda Xie, Yu Wu, Kai Hu, Jiawei Wang, Yaofeng Sun, Yukun Li, Yishi Piao, Kang Guan, Aixin Liu, Xin Xie, Yuxiang You, Kai Dong, Xingkai Yu, Haowei Zhang, Liang Zhao, Yisong Wang and Chong Ruan. "DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding", arXiv preprint, 2024. <a href="https://arxiv.org/abs/2412.10302">[arXiv]</a></p>
-  <p>[5] DeepSeek-AI. "DeepSeek-V3 Technical Report", arXiv preprint, 2024. <a href="https://arxiv.org/abs/2412.19347">[arXiv]</a></p>
+  <p>[5] DeepSeek-AI. "DeepSeek-V3 Technical Report", arXiv preprint, 2024. <a href="https://arxiv.org/abs/2412.19437">[arXiv]</a></p>
   <p>[6] DeepSeek-AI. "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning", arXiv preprint, 2025. <a href="https://arxiv.org/abs/2501.12948">[arXiv]</a></p>
 
   <p>*Equal Contribution</p>
