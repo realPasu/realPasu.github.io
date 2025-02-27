@@ -36,7 +36,7 @@
   <p><b> DeepSeek-AI </b></p>
   <p> &nbsp; 06/2024 - 11/2024</p>
   <p> &nbsp;&nbsp; <b>AGI Research Intern</b>, Multimodality Group. </p>
-<!--     <p> &nbsp; 04/2025 - </p>
+  <!-- <p> &nbsp; 04/2025 - </p>
   <p> &nbsp;&nbsp; <b>AGI Researcher</b>, Multimodality Group. </p> -->
  
 
@@ -62,9 +62,9 @@
 
 <h2> Preprints </h2>
   <p>[1] <b>Yiyang Ma</b>, Huan Yang, Wenjing Wang, Jianlong Fu and Jiaying Liu. "Unified Multi-Modal Latent Diffusion for Joint Subject and Text Conditional Image Generation", arXiv preprint, 2023. <a href="https://arxiv.org/abs/2303.09319">[arXiv]</a> </p>
-  <p>[2] Zhiyu Wu*, Xiaokang Chen*, Zizheng Pan*, Xingchao Liu*, Wen Liu*&dagger;, Damai Dai, Huazuo Gao, <b>Yiyang Ma</b>, Chengyue Wu, Bingxuan Wang, Zhenda Xie, Yu Wu, Kai Hu, Jiawei Wang, Yaofeng Sun, Yukun Li, Yishi Piao, Kang Guan, Aixin Liu, Xin Xie, Yuxiang You, Kai Dong, Xingkai Yu, Haowei Zhang, Liang Zhao, Yisong Wang and Chong Ruan. "DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding", arXiv preprint, 2024. <a href="https://arxiv.org/abs/2412.10302">[arXiv]</a></p>
+  <p>[2] <b>DeepSeek-AI</b>. "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning", arXiv preprint, 2025. <a href="https://arxiv.org/abs/2501.12948">[arXiv]</a></p>
   <p>[3] <b>DeepSeek-AI</b>. "DeepSeek-V3 Technical Report", arXiv preprint, 2024. <a href="https://arxiv.org/abs/2412.19437">[arXiv]</a></p>
-  <p>[4] <b>DeepSeek-AI</b>. "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning", arXiv preprint, 2025. <a href="https://arxiv.org/abs/2501.12948">[arXiv]</a></p>
+  <p>[4] Zhiyu Wu*, Xiaokang Chen*, Zizheng Pan*, Xingchao Liu*, Wen Liu*&dagger;, Damai Dai, Huazuo Gao, <b>Yiyang Ma</b>, Chengyue Wu, Bingxuan Wang, Zhenda Xie, Yu Wu, Kai Hu, Jiawei Wang, Yaofeng Sun, Yukun Li, Yishi Piao, Kang Guan, Aixin Liu, Xin Xie, Yuxiang You, Kai Dong, Xingkai Yu, Haowei Zhang, Liang Zhao, Yisong Wang and Chong Ruan. "DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding", arXiv preprint, 2024. <a href="https://arxiv.org/abs/2412.10302">[arXiv]</a></p>
 
   <p>*Equal Contribution &dagger;Project Leader</p>
   
