@@ -35,9 +35,9 @@
 
   <p><b> DeepSeek-AI </b></p>
   <p> &nbsp; 06/2024 - 11/2024</p>
-  <p> &nbsp;&nbsp; <b>AGI Research Intern</b>, Multimodality Group. </p>
+  <p> &nbsp;&nbsp; <b>AGI Research Intern</b>. </p>
 <!--   <p> &nbsp; 04/2025 - </p>
-  <p> &nbsp;&nbsp; <b>AGI Researcher</b>, Multimodality Group. </p> -->
+  <p> &nbsp;&nbsp; <b>AGI Researcher</b>. </p> -->
  
 
 <h1> Research </h1>
@@ -76,3 +76,4 @@
 
 <h1> Contact me </h1>
   <p> Please send e-mail to <p1 style="color:#0000FF;">myy12769@pku.edu.cn</p1>.</p>
+  <p> I'm excited to share that I'll be joining <b>DeepSeek-AI</b> and am not currently considering new opportunities. Thank you for your interest in my profile.</p>
