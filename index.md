@@ -10,7 +10,7 @@
       <td width="75%">
         <!-- <p> &nbsp;&nbsp;&nbsp;&nbsp; I'm a third-year Master Candidate at <a href="http://39.96.165.147/struct.html">Spatial and Temporal Restoration, Understanding and Compression Team (STRUCT)</a>, Peking University, and supervised by <a href="http://39.96.165.147/people/liujiaying.html"> Prof. Jiaying Liu</a>.</p>
         -->
-        <p> &nbsp;&nbsp;&nbsp;&nbsp; I'm an AGI Research Intern at <a href="https://www.deepseek.com/en">DeepSeek AI</a>, which is supported by <a href="https://www.high-flyer.cn/en">High-Flyer</a>. </p>
+        <p> &nbsp;&nbsp;&nbsp;&nbsp; I'm an AGI Research Intern at <a href="https://www.deepseek.com/en">DeepSeek-AI</a>, which is supported by <a href="https://www.high-flyer.cn/en">High-Flyer</a>. </p>
         <p> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://scholar.google.com/citations?user=cjZ0vJMAAAAJ&hl=en">[Google Scholar]</a></p>
       </td>
     </tr>
