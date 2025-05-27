@@ -24,7 +24,7 @@
   <p> &nbsp;&nbsp; Bachelor major in Intelligence Science and Technology, EECS.</p>
   
   <p> &nbsp; 09/2022 - 07/2025</p>
-  <p> &nbsp;&nbsp; Master Candidate major in Data Science (Computer Science and Technology), AAIS.</p>
+  <p> &nbsp;&nbsp; Master major in Data Science (Computer Science and Technology), AAIS.</p>
 
 <h1> Experience </h1>
   
