@@ -8,10 +8,9 @@
         <img src="/免冠照_白1寸_20220111.jpg" width="100%">  
       </td>
       <td width="75%">
-        <p> &nbsp;&nbsp;&nbsp;&nbsp; I'm a third-year Master Candidate at <a href="http://39.96.165.147/struct.html">Spatial and Temporal Restoration, Understanding and Compression Team (STRUCT)</a>, Peking University, and supervised by <a href="http://39.96.165.147/people/liujiaying.html"> Prof. Jiaying Liu</a>.</p>
-        <!-- 
-        <p> &nbsp;&nbsp;&nbsp;&nbsp; Currently, I'm an AGI Research Intern at <a href="https://www.deepseek.com/en">DeepSeek AI</a>, which is supported by <a href="https://www.high-flyer.cn/en">High-Flyer</a>. </p>
+        <!-- <p> &nbsp;&nbsp;&nbsp;&nbsp; I'm a third-year Master Candidate at <a href="http://39.96.165.147/struct.html">Spatial and Temporal Restoration, Understanding and Compression Team (STRUCT)</a>, Peking University, and supervised by <a href="http://39.96.165.147/people/liujiaying.html"> Prof. Jiaying Liu</a>.</p>
         -->
+        <p> &nbsp;&nbsp;&nbsp;&nbsp; Currently, I'm an AGI Research Intern at <a href="https://www.deepseek.com/en">DeepSeek AI</a>, which is supported by <a href="https://www.high-flyer.cn/en">High-Flyer</a>. </p>
         <p> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://scholar.google.com/citations?user=cjZ0vJMAAAAJ&hl=en">[Google Scholar]</a></p>
       </td>
     </tr>
@@ -24,7 +23,7 @@
   <p> &nbsp; 09/2018 - 07/2022</p>
   <p> &nbsp;&nbsp; Bachelor major in Intelligence Science and Technology, EECS.</p>
   
-  <p> &nbsp; 09/2022 - 07/2025 (expected)</p>
+  <p> &nbsp; 09/2022 - 07/2025</p>
   <p> &nbsp;&nbsp; Master Candidate major in Data Science (Computer Science and Technology), AAIS.</p>
 
 <h1> Experience </h1>
