@@ -56,12 +56,13 @@
   <p>[10] Shixing Yu, <b>Yiyang Ma</b>, Wei Xiang, Wenhan Yang, and Jiaying Liu. "Meta-Interpolation: Time-Arbitrary Frame Interpolation via Dual Meta-Learning", in proceedings of <i>IEEE International Symposium on Circuits and Systems</i> (<b><i>ISCAS</i></b>), Austin, U.S.A., May 2022. (<b>MSA-TC Best Paper</b>) <a href="https://arxiv.org/abs/2207.13670">[arXiv]</a> </p>
 
 <h3> Journal Papers </h3>
-  <p>[1] <b>Yiyang Ma*</b>, Haowei Kuang*, Huan Yang, Jianlong Fu, and Jiaying Liu. "Prompt-Based Modality Bridging for Unified Text-to-Face Generation and Manipulation", accepted by <i>ACM Transactions on Multimedia Computing Communications and Applications</i> (<b><i>ACM TOMM</i></b>).</p>
-  <p>[2] Jialu Sui, <b>Yiyang Ma</b>, Wenhan Yang, Xiaokang Zhang, Man-On Pun, and Jiaying Liu. "Diffusion Enhancement for Cloud Removal in Ultra-Resolution Remote Sensing Imagery", accepted by <i>IEEE Transactions on Geoscience and Remote Sensing</i> (<b><i>IEEE TGRS</i></b>). <a href="https://arxiv.org/abs/2401.15105">[arXiv]</a> </p>
+  <p>[1] <b>Yiyang Ma*</b>, Haowei Kuang*, Huan Yang, Jianlong Fu, and Jiaying Liu. "Prompt-Based Modality Bridging for Unified Text-to-Face Generation and Manipulation", <i>ACM Transactions on Multimedia Computing Communications and Applications</i> (<b><i>ACM TOMM</i></b>), Vol. 20, pp. 1-23, 2024</p>
+  <p>[2] <b>DeepSeek-AI</b>. "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning", <b><i>Nature</i></b>, Vol. 645, pp. 633-638, 2025. <a href="https://arxiv.org/abs/2501.12948">[arXiv]</a></p>
+  <p>[3] Jialu Sui, <b>Yiyang Ma</b>, Wenhan Yang, Xiaokang Zhang, Man-On Pun, and Jiaying Liu. "Diffusion Enhancement for Cloud Removal in Ultra-Resolution Remote Sensing Imagery", <i>IEEE Transactions on Geoscience and Remote Sensing</i> (<b><i>IEEE TGRS</i></b>), Vol. 62, pp. 1-14, 2024. <a href="https://arxiv.org/abs/2401.15105">[arXiv]</a> </p>
 
 <h2> Preprints </h2>
   <p>[1] <b>Yiyang Ma</b>, Huan Yang, Wenjing Wang, Jianlong Fu and Jiaying Liu. "Unified Multi-Modal Latent Diffusion for Joint Subject and Text Conditional Image Generation", arXiv preprint, 2023. <a href="https://arxiv.org/abs/2303.09319">[arXiv]</a> </p>
-  <p>[2] <b>DeepSeek-AI</b>. "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning", arXiv preprint, 2025. <a href="https://arxiv.org/abs/2501.12948">[arXiv]</a></p>
+  <p>[2] <b>DeepSeek-AI</b>. "DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models", arXiv preprint, 2025. <a href="https://arxiv.org/abs/2512.02556">[arXiv]</a></p>
   <p>[3] <b>DeepSeek-AI</b>. "DeepSeek-V3 Technical Report", arXiv preprint, 2024. <a href="https://arxiv.org/abs/2412.19437">[arXiv]</a></p>
   <p>[4] Zhiyu Wu*, Xiaokang Chen*, Zizheng Pan*, Xingchao Liu*, Wen Liu*&dagger;, Damai Dai, Huazuo Gao, <b>Yiyang Ma</b>, Chengyue Wu, Bingxuan Wang, Zhenda Xie, Yu Wu, Kai Hu, Jiawei Wang, Yaofeng Sun, Yukun Li, Yishi Piao, Kang Guan, Aixin Liu, Xin Xie, Yuxiang You, Kai Dong, Xingkai Yu, Haowei Zhang, Liang Zhao, Yisong Wang and Chong Ruan. "DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding", arXiv preprint, 2024. <a href="https://arxiv.org/abs/2412.10302">[arXiv]</a></p>
 
@@ -75,4 +76,3 @@
 
 <h1> Contact me </h1>
   <p> Please send e-mail to <p1 style="color:#0000FF;">myy12769@pku.edu.cn</p1>.</p>
-  <p> I'm excited to share that I'll be joining <b>DeepSeek-AI</b> and am not currently considering new opportunities. Thank you for your interest in my profile.</p>
